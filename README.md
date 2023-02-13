@@ -1,9 +1,10 @@
 # How to Run project
 
+```bash
 npm install
 # or
 yarn install
-```bash
+
 npm run dev
 # or
 yarn dev
